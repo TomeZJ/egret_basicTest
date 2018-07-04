@@ -13,6 +13,7 @@
 		"bin-debug/AssetAdapter.js",
 		"bin-debug/basicTest.js",
 		"bin-debug/basicTest1.js",
+		"bin-debug/basicTest2.js",
 		"bin-debug/LoadingUI.js",
 		"bin-debug/Main.js",
 		"bin-debug/Platform.js",
